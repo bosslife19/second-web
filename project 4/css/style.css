@@ -1,0 +1,40 @@
+body{
+    font-family: 'Kumbh Sans', sans-serif;
+}
+
+@media(max-width: 500px){
+    .card{
+        height: 2000px;
+        width: 400px;
+        margin-top: 50px;
+        
+    }
+}
+body{
+    background-color: hsl(185, 75%, 39%);
+}
+.card{
+    margin-top: 100px;
+    border-radius: 15px;
+    height: 2000px;
+}
+.card-header{
+    width: 109%;
+    position: relative;
+    right: 12px;
+    bottom: 0.5px;
+    height: 40%;
+}
+
+.card-footer {
+    position: relative;
+    right: 32px;
+    bottom: 10px;
+    width: 300px;
+    height: 100px;
+    bottom: 30px;
+
+}
+    
+    
+

@@ -1,0 +1,59 @@
+.cards{
+    position: relative;
+    right: 12px;
+}
+ 
+.cardss{
+    position: relative;
+    right: 12px;
+}
+.cardd{
+    position: relative;
+    top: 70px;
+    
+}
+
+.king{
+    position:relative;
+    left: 410px;
+    bottom: 70px;
+    background-color: hsl(34, 97%, 64%);
+
+}
+ 
+.queen{
+    background-color: white;
+    height: 245px;
+    width: 378px;
+    position: relative;
+    top: 3px;
+    right: 12px;
+}
+.prince{
+    background-color: white;
+    height: 245px;
+    width: 378px;
+    position: relative;
+    top: 3px;
+    right: 12px;
+
+}
+
+@media(max-width:375px){
+    .row{
+        display: none;
+    }
+    .none{
+        display: none;
+    }
+}
+@media(min-width: 420px){
+    .mobile{
+        display: none;
+    }
+}
+.mt-3{
+    position: relative;
+    right: 30px;
+    width: 100%;
+}

@@ -1,0 +1,25 @@
+
+{background-color:#61122f;}
+#header-nav{background-color:goldenrod;border:0; height:100px;}
+#logo-img{background: url('../img/2.png') no-repeat; width: 150px; height:70px; margin:10px 15px 10px 0; border-radius: 50%;}
+.navbar-toggler-icon{border:1px solid #61122f;background-color: goldenrod;}
+.navbar-toggler{position:relative;bottom:90px; left:700px;}
+#nav-list a:hover{color:honeydew;font-size: 1.2em;}
+@media(min-width:700px) and(max-width:1000px){.jumbotron{background:url(../img/2.png)no-repeat; width:800px;height:600px;}}
+#food, #foods, #more-foods{height:250px;width:100%;margin-bottom:15px;position:relative;
+border:2px solid #3f0c1f;overflow:hidden;}
+#food:hover, #foods:hover, #more-foods:hover{box-shadow:0 1px 5px 1px #cccc; }
+#foods{background:url('../img/2.jpg')no-repeat; background-position: center;}
+#food{background:url('../img/2.jpg')no-repeat; background-position: center;}
+#more-foods{background:url('../img/2.jpg')no-repeat; background-position: center;}
+#food span, #foods span, #more-foods span{position:absolute; bottom:0;right:0;width:100%;text-align:center;font-size:1.6em;text-transform:uppercase;background-color: #000;color:#fff;
+    opacity:.8;}
+
+
+#sect{color:white;}
+.panel-header{background-color:black;margin-top:10px;}
+.text-center{margin-top:20px; color:#fff;}
+.col-md-3 img {
+    margin-right: auto;margin-left: auto;}
+    
+   

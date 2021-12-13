@@ -1,0 +1,26 @@
+body{
+    background-color: hsl(217, 54%, 11%);
+    font-family: 'Outfit', sans-serif;
+}
+
+.now{
+    height: 550px;
+    width: 80%;
+    margin: auto;
+    position: relative;
+    top: 60px;
+    border-radius: 10px;
+    background-color: hsl(216, 50%, 16%);
+
+}
+
+.not{
+    height: 200px;
+    
+    width: 80%;
+    margin: auto;
+    position: relative;
+    top: 60px;
+    border:hsl(216, 50%, 16%) solid
+    
+}

@@ -1,0 +1,9 @@
+h1{margin-top: 20px; color:cyan; font-size: 40px;}
+body{margin-top: 20px; font-size: 18px;
+    font-family: 'Bai Jamjuree', sans-serif;}
+h1{margin-bottom: 30px;}
+button{position:relative; left: 500px;background-color: cyan;color:whitesmoke;border-radius: 20px;right:100px;}
+.blue{background-color: hsl(233, 100%, 69%);}
+@media(min-width:500px) and (max-width:1200px){button{width:33%; position:relative; left:100px;}}
+@media(max-width:499px){button{width:100%;}}
+section{position:relative; bottom:430px; left: 750px;}
